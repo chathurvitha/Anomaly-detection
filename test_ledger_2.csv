@@ -1,0 +1,16 @@
+date,description,amount,category
+2025-02-01,Office stationery purchase,420,Office
+2025-02-01,Water bill payment,510,Utilities
+2025-02-01,Team lunch expense,480,Food
+2025-02-01,Local cab reimbursement,530,Travel
+2025-02-01,Printer ink purchase,460,Office
+2025-02-01,Internet service bill,500,Utilities
+2025-02-01,Coffee snacks,450,Food
+2025-02-01,Bus travel expense,490,Travel
+2025-02-01,Repeated vendor payment,470,Office
+2025-02-01,Small office repair,520,Office
+
+2025-02-01,Unusual luxury hotel booking,45000,Travel
+2025-02-01,High-value electronics purchase,120000,Office
+2025-02-01,Sudden cash withdrawal,95000,Cash
+2025-02-01,Unexpected foreign transfer,210000,Transfer

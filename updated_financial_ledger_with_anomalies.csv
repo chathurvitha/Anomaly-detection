@@ -1,0 +1,24 @@
+date,description,debit,credit,account_code,voucher_number,invoice_number,department,cost_center,vendor_name,payment_mode,category,amount,user_id
+2026-03-01,Office Rent,50000,0,5001,VCH001,INV001,Admin,HO,ABC Estates,NEFT,expense,50000,1
+2026-03-02,Client Invoice Payment,0,120000,4001,VCH002,INV002,Sales,HO,XYZ Corp,UPI,income,120000,2
+2026-03-03,Stationery Purchase,1500,0,5020,VCH003,INV003,Admin,HO,Office Supplies Ltd,Cash,expense,1500,1
+2026-03-04,Consulting Fees,0,25000,4002,VCH004,INV004,Consulting,HO,DEF Consultants,Cheque,income,25000,3
+2026-03-05,Travel Reimbursement,2000,0,5030,VCH005,INV005,Sales,HO,John Doe,Cash,expense,2000,2
+2026-03-06,Vendor Payment,10000,0,5002,VCH006,INV006,Admin,HO,GHI Services,NEFT,expense,10000,1
+2026-03-07,Interest Income,0,800,4003,VCH007,INV007,Finance,HO,State Bank,NEFT,income,800,4
+2026-03-08,Equipment Purchase,25000,0,5040,VCH008,INV008,IT,HO,TechMart,UPI,expense,25000,5
+2026-03-09,Salary Payment,60000,0,5010,VCH009,INV009,HR,HO,Staff,Cash,expense,60000,1
+2026-03-10,Customer Refund,0,2000,4004,VCH010,INV010,Sales,HO,Customer X,NEFT,expense,-2000,2
+2026-03-11,Loan Repayment,0,30000,4005,VCH011,INV011,Finance,HO,ABC Bank,NEFT,expense,-30000,4
+2026-03-12,Utility Bill,3500,0,5050,VCH012,INV012,Admin,HO,Electricity Board,UPI,expense,3500,1
+2026-03-13,Project Advance,0,15000,4006,VCH013,INV013,Projects,HO,Client Y,NEFT,income,15000,3
+2026-03-14,Maintenance,4000,0,5060,VCH014,INV014,Admin,HO,Maintenance Co.,Cash,expense,4000,1
+2026-03-15,Bonus Payment,5000,0,5011,VCH015,INV015,HR,HO,Staff,NEFT,expense,5000,1
+2026-03-16,Large Equipment Purchase,2000000,0,5041,VCH016,INV016,IT,HO,BigTech,NEFT,expense,2000000,5
+2026-03-17,Negative Income,0,-10000,4007,VCH017,INV017,Finance,HO,Error Corp,UPI,income,-10000,4
+2026-03-18,High Expense,0,600000,4008,VCH018,INV018,Admin,HO,Expensive Vendor,NEFT,expense,600000,1
+2026-03-19,Duplicate Invoice,1000,0,5021,VCH019,INV019,Admin,HO,Office Supplies Ltd,Cash,expense,1000,1
+2026-03-19,Duplicate Invoice,1000,0,5021,VCH019,INV019,Admin,HO,Office Supplies Ltd,Cash,expense,1000,1
+2026-03-20,Weekend Transaction,500,0,5022,VCH020,INV020,Admin,HO,Weekend Vendor,UPI,expense,500,1
+2026-03-21,Round Number Bias,50000,0,5023,VCH021,INV021,Admin,HO,RoundVendor,NEFT,expense,50000,1
+2026-03-22,Round Number Bias,50000,0,5023,VCH022,INV022,Admin,HO,RoundVendor,NEFT,expense,50000,1

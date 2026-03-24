@@ -1,0 +1,181 @@
+C:\Users\chath\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator ExtraTreeRegressor from version 1.8.0 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\chath\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator IsolationForest from version 1.8.0 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+Model loaded — trained: True
+ * Serving Flask app 'app'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+ * Restarting with watchdog (windowsapi)
+C:\Users\chath\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator ExtraTreeRegressor from version 1.8.0 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\chath\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator IsolationForest from version 1.8.0 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+ * Debugger is active!
+ * Debugger PIN: 785-944-589
+127.0.0.1 - - [20/Mar/2026 11:36:36] "GET / HTTP/1.1" 404 -
+127.0.0.1 - - [20/Mar/2026 11:36:36] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [20/Mar/2026 11:36:54] "OPTIONS /api/login HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 11:36:54] "POST /api/login HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 11:36:54] "OPTIONS /api/ledger HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 11:36:54] "OPTIONS /api/ledger HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 11:36:54] "GET /api/ledger HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 11:36:55] "GET /api/ledger HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 11:37:08] "OPTIONS /api/analytics HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 11:37:08] "OPTIONS /api/ledger HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 11:37:08] "OPTIONS /api/analytics HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 11:37:08] "OPTIONS /api/ledger HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 11:37:09] "GET /api/analytics HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 11:37:09] "GET /api/ledger HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 11:37:09] "GET /api/analytics HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 11:37:09] "GET /api/ledger HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 11:37:53] "POST /api/login HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 11:38:04] "GET /api/ledger HTTP/1.1" 200 -
+ * Detected change in 'c:\\Users\\chath\\Downloads\\anomaly detection\\backend\\utils\\email_sender.py', reloading
+Model loaded — trained: True
+ * Restarting with watchdog (windowsapi)
+C:\Users\chath\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator ExtraTreeRegressor from version 1.8.0 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\chath\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator IsolationForest from version 1.8.0 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+ * Debugger is active!
+ * Debugger PIN: 785-944-589
+ * Detected change in 'c:\\Users\\chath\\Downloads\\anomaly detection\\backend\\app.py', reloading
+Model loaded — trained: True
+ * Restarting with watchdog (windowsapi)
+C:\Users\chath\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator ExtraTreeRegressor from version 1.8.0 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\chath\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator IsolationForest from version 1.8.0 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+ * Debugger is active!
+ * Debugger PIN: 785-944-589
+ * Detected change in 'c:\\Users\\chath\\Downloads\\anomaly detection\\backend\\app.py', reloading
+Model loaded — trained: True
+ * Restarting with watchdog (windowsapi)
+C:\Users\chath\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator ExtraTreeRegressor from version 1.8.0 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\chath\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator IsolationForest from version 1.8.0 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+ * Debugger is active!
+ * Debugger PIN: 785-944-589
+ * Detected change in 'c:\\Users\\chath\\Downloads\\anomaly detection\\backend\\utils\\email_sender.py', reloading
+Model loaded — trained: True
+ * Restarting with watchdog (windowsapi)
+C:\Users\chath\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator ExtraTreeRegressor from version 1.8.0 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\chath\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator IsolationForest from version 1.8.0 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+ * Debugger is active!
+ * Debugger PIN: 785-944-589
+ * Detected change in 'c:\\Users\\chath\\Downloads\\anomaly detection\\backend\\utils\\anomaly_detector.py', reloading
+Model loaded — trained: True
+ * Restarting with watchdog (windowsapi)
+C:\Users\chath\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator ExtraTreeRegressor from version 1.8.0 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\chath\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator IsolationForest from version 1.8.0 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+ * Debugger is active!
+ * Debugger PIN: 785-944-589
+ * Detected change in 'c:\\Users\\chath\\Downloads\\anomaly detection\\backend\\utils\\email_sender.py', reloading
+Model loaded — trained: True
+ * Restarting with watchdog (windowsapi)
+C:\Users\chath\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator ExtraTreeRegressor from version 1.8.0 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\chath\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator IsolationForest from version 1.8.0 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+ * Debugger is active!
+ * Debugger PIN: 785-944-589
+127.0.0.1 - - [20/Mar/2026 12:11:02] "GET / HTTP/1.1" 404 -
+127.0.0.1 - - [20/Mar/2026 12:11:12] "OPTIONS /api/login HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 12:11:13] "POST /api/login HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 12:11:13] "OPTIONS /api/ledger HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 12:11:13] "OPTIONS /api/ledger HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 12:11:13] "GET /api/ledger HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 12:11:13] "GET /api/ledger HTTP/1.1" 200 -
+ * Detected change in 'c:\\Users\\chath\\Downloads\\anomaly detection\\backend\\app.py', reloading
+Model loaded — trained: True
+ * Restarting with watchdog (windowsapi)
+C:\Users\chath\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator ExtraTreeRegressor from version 1.8.0 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\chath\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator IsolationForest from version 1.8.0 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+ * Debugger is active!
+ * Debugger PIN: 785-944-589
+127.0.0.1 - - [20/Mar/2026 14:14:17] "OPTIONS /api/analytics HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 14:14:17] "OPTIONS /api/ledger HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 14:14:17] "OPTIONS /api/analytics HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 14:14:17] "OPTIONS /api/ledger HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 14:14:17] "GET /api/ledger HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 14:14:17] "GET /api/analytics HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 14:14:17] "GET /api/ledger HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 14:14:18] "GET /api/analytics HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 14:21:47] "OPTIONS /api/ledger HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 14:21:47] "GET /api/ledger HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 14:21:48] "GET /api/ledger HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 14:22:18] "OPTIONS /api/ledger HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 14:22:18] "GET /api/ledger HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 14:22:35] "OPTIONS /api/login HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 14:22:36] "POST /api/login HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 14:22:36] "OPTIONS /api/ledger HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 14:22:36] "OPTIONS /api/ledger HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 14:22:36] "GET /api/ledger HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 14:22:36] "GET /api/ledger HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 14:22:40] "OPTIONS /api/analytics HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 14:22:40] "OPTIONS /api/analytics HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 14:22:40] "GET /api/ledger HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 14:22:40] "GET /api/analytics HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 14:22:40] "GET /api/ledger HTTP/1.1" 200 -
+127.0.0.1 - - [20/Mar/2026 14:22:40] "GET /api/analytics HTTP/1.1" 200 -
+ * Detected change in 'c:\\Users\\chath\\Downloads\\anomaly detection\\backend\\app.py', reloading
+Model loaded — trained: True
+ * Restarting with watchdog (windowsapi)
+C:\Users\chath\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator ExtraTreeRegressor from version 1.8.0 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\chath\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator IsolationForest from version 1.8.0 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+ * Debugger is active!
+ * Debugger PIN: 785-944-589
+ * Detected change in 'c:\\Users\\chath\\Downloads\\anomaly detection\\backend\\app.py', reloading
+Model loaded — trained: True
+ * Restarting with watchdog (windowsapi)
+C:\Users\chath\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator ExtraTreeRegressor from version 1.8.0 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\chath\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator IsolationForest from version 1.8.0 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+ * Debugger is active!
+ * Debugger PIN: 785-944-589
+ * Detected change in 'c:\\Users\\chath\\Downloads\\anomaly detection\\backend\\app.py', reloading
+Model loaded — trained: True
+ * Restarting with watchdog (windowsapi)
+C:\Users\chath\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator ExtraTreeRegressor from version 1.8.0 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\chath\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\base.py:380: InconsistentVersionWarning: Trying to unpickle estimator IsolationForest from version 1.8.0 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+ * Debugger is active!
+ * Debugger PIN: 785-944-589

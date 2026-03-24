@@ -1,0 +1,12 @@
+{
+  "name": "anomaly-detection-system",
+  "version": "1.0.0",
+  "scripts": {
+    "dev:full": "start cmd /k \"cd backend && ../.venv/Scripts/activate && python app.py\" && timeout /t 3 && cd frontend && npm start",
+    "backend": "cd backend && python app.py",
+    "frontend": "cd frontend && npm start"
+  },
+  "dependencies": {
+    "recharts": "^3.6.0"
+  }
+}
